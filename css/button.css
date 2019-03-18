@@ -1,0 +1,14 @@
+button{
+	background-color: #8A2BE2;
+	border-radius: 20px;
+	color:white;
+	font-size: 20px;
+	font-family: times new roman;
+	width: 100px;
+	height: 30px;
+}
+button:hover{
+	background-color:#A9A9A9;
+	color:black;
+
+}

@@ -1,0 +1,76 @@
+body{
+	background-image: url('bc.jpg');
+
+}
+.p{
+	border: solid 1px;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 0px 10px 30px;
+	color: white;
+	size: 10px;
+	background-color:#FFD700; 
+	
+	font-family: engine;
+
+}
+
+.nama{
+		
+		padding: 0px 0px 0px 0px;
+		margin: 50px 0px 0px 40px;
+		height: 50px;
+		width: 400px;
+		font-size:18px; 
+		font-family: times new roman;
+		font-style: italic;
+		border-radius: 10px;
+
+}
+.password{
+		
+		padding: 0px 0px 0px 0px;
+		margin: 35px 0px 0px 40px;
+		height: 50px;
+		width: 400px;
+		font-size:18px; 
+		font-family: times new roman;
+		font-style: italic;
+		border-radius: 10px;
+}
+.table{
+	
+	background-color: white;
+	width: 485px;
+	padding: 0px 0px 0px 0px;
+	margin: 200px 0px 0px 460px;
+	height: 400px;
+	border-radius: 20px;
+
+}
+.login  {
+		background-color: #FFD700;
+		padding: 0px 0px 0px 0px;
+		margin: 40px 0px 0px 40px;
+		height: 50px;
+		width: 400px;
+		color: white;
+		font-size: 25px;
+		border-radius: 20px;
+
+
+}
+.login:hover{
+	background-color: #008000;
+	background-color: #006400;
+	color: #00008B;
+}
+.form{
+	border: solid 1px black;
+
+
+}
+.back{
+	list-style-type: none;
+	
+
+}
